@@ -59,10 +59,7 @@ The project uses publicly available IPL match datasets containing information su
 
 <img width="1330" height="727" alt="S1" src="https://github.com/user-attachments/assets/26400f20-d803-4340-bd81-bbc27f08e191" />
 
-```
 <img width="1330" height="726" alt="S2" src="https://github.com/user-attachments/assets/e452a6f3-4dfa-497b-ba02-af118eb15e1a" />
-
-```
 
 ---
 
